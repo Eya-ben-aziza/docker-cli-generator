@@ -2,6 +2,10 @@
 
 A command-line tool to generate Dockerfiles for various applications with customizable configurations.
 
+## Screenshots
+![Main-menu](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ## Features ✨
 
 - Interactive CLI interface with colorful prompts
